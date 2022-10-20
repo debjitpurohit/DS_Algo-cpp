@@ -1,0 +1,5 @@
+why we use bit ??
+  --> if we use bits,  programm will be computationally more faster than decimal.
+      if we decleare a decimal, computer first convert it into binary/bit then do 
+      the operation so we directly use bit opearation to do program , thats why 
+      program will more fast (less time complexcity).
